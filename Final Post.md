@@ -60,6 +60,7 @@ From the data analysis I want to get to know below questions
 
 ## Data preparation
 1. When is the peak season for travelling to Seattle
+
 Note:As data period is from 2016-01-04 to 2017-01-02 in calendar table,there's no meaning to use 2017 data in this table.I only choose data year=2016 as my analysis data.
 - Jun is the peak season in Seattle: I can see the occupation rate is the lowest and price is the highest in Jun among the year.
 - October to December is the slack season in Seattle: The occupation rate is high and price is low.
@@ -69,6 +70,7 @@ Note:As data period is from 2016-01-04 to 2017-01-02 in calendar table,there's n
 
 
 2. Where is the best place to live in Seattle
+
 Note:As the price in listings contained '$',I remove the symble and convert the data type to int.
 - I can see the big difference between neighbourhood.Fairmount Park is the highest and Roxhill is the cheapest place to rent in Seattle.
 ![image](https://user-images.githubusercontent.com/30916036/129546727-215b1f65-d48a-4604-a552-79ca79524111.png)
@@ -80,6 +82,6 @@ Note:As the price in listings contained '$',I remove the symble and convert the 
 
 ## Modeling and Evaluation
 From above corr analysis with price,I choose the variables whose absolute correlation coefficient >0.2 as the independent variables to predict price.However the missing value percentage of square_feet is over 50%,I decide to abondon this variable althougn it have high relationship with price.Here is the evalation of the model.I'm satisfied with the result.
-Note:As there are some missing values in listing table,when I set model to predict price I abandon the columns which have much missing values.
+
 ![image](https://user-images.githubusercontent.com/30916036/129549360-118ac5d5-ebdb-42df-a884-8fe1e95b122c.png)
 
