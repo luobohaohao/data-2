@@ -36,7 +36,7 @@ From the data analysis I want to get to know below questions
 
 ![image](https://user-images.githubusercontent.com/30916036/129543469-cb139987-c832-486c-a32e-f494141bfa65.png)
 
-2. Below is the null values percentage for each field in this table.
+2. Below is the null values percentage for each field in this table.More than 50% values are missing in square_feet,monthly_price,security_deposit
 
 ![image](https://user-images.githubusercontent.com/30916036/129543549-bb6ac72f-0739-456b-a72e-3e6417d5f544.png)
 
