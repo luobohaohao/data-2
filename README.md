@@ -17,6 +17,9 @@ The project use Python3 and below package installed to do the analysis.
 3. Matplotlib
 4. sklearn
 
+# Code
+pls check Seattle Airbnb data analysis.ipynb in this repository.
+
 
 # Results
 From data analysis,I have below questions and answers
