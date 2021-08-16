@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Introduction
+Seattle is a famous place for travelling.I want to have some findings from airbnb seattle data so that I have make good choice to travel there.
 
-You can use the [editor on GitHub](https://github.com/luobohaohao/data-2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Datasource Overview
+I use following datasets comes from https://www.kaggle.com/airbnb/seattle/data .it include below three datasets:
+1. Listings, including full descriptions and average review score
+2. Reviews, including unique id for each reviewer and detailed comments
+3. Calendar, including listing id and the price and availability for that day
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Results
+From data analysis,I have below questions and answers
+1. When is the best month for travelling to Seattle
+2. Where is the best place to live in Seattle
+3. What factors impact the price
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Data analysis process
+## Business Understanding.
+From the data analysis I want to get to know below questions
+1. When is the best month for travelling to Seattle
+2. Where is the best place to live in Seattle
+3. What factors impact the price
 
-```markdown
-Syntax highlighted code block
+## Data Understanding
+1. Calendar
+1.1 I can see that data period is from 2016-01-04 to 2017-01-02
+1.2 We can see only four fields in this table.
+1.3 For date field: it’s not date type.We need transfer them to date type if we need calculate
+1.4 For price field:it’s not int/float type.We need to transfer them if we need to calculate.There are some missing values in this field.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+2. Listing
+2.1 There are 91 fields in this table
+2.2 Below is the null values percentage for each field in this table.
 
-1. Numbered
-2. List
+3. Review
+3.1 I can see only  6 fields in this data.There are some missing values in comments.Date is object type,we need transfer them to date type if we need to calculate.
 
-**Bold** and _Italic_ and `Code` text
+## Data preparation
+1. When is the best month for travelling to Seattle
+2. Where is the best place to live in Seattle
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luobohaohao/data-2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Modeling
+## Evaluation
