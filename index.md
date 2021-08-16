@@ -12,15 +12,16 @@ My datasource comes from https://www.kaggle.com/airbnb/seattle/data .it include 
 # Results
 From data analysis,I have below questions and answers
 1. When is the best month for travelling to Seattle
-- Jun is the peak season and October to December is the slack season among the year.
+- Jun is the peak season and October to December is the slack season in a year.
 
 2. Where is the best place to live in Seattle
-- Faimount Park is the highest and roxhill is the cheapest place in Seattle.
+- Fairmount Park is the highest and Roxhill is the cheapest place to rent in Seattle.
 
-3. What factors impact the price
-- accommodates,bedrooms,beds,square_feet,bathrooms have strong relationship with price.
+3. What factors correlated with the price
+- accommodates,bedrooms,beds,square_feet,bathrooms have strong relationships with price.
 
-4.What variables can help predict price and the evaluation of the data model.
+4.How can I predict price by variables and the evaluation of the data model.
+My final model evaluation 
 - Mean squared error is 4200.
 - R2=0.48
 
