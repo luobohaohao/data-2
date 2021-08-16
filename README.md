@@ -1,16 +1,16 @@
 # Seattle Airbnb Data Analysis Introduction
-# Project Overview:
+# Project Overview
 Seattle is a famous place for travelling.I want to have some findings from airbnb seattle data so that I have make good choice to travel there. 
 
 
-# Datasource Overview:
+# Datasource Overview
 I use following datasets comes from https://www.kaggle.com/airbnb/seattle/data .it include below three datasets:
 1. Listings, including full descriptions and average review score
 2. Reviews, including unique id for each reviewer and detailed comments
 3. Calendar, including listing id and the price and availability for that day
 
 
-# Analysis tool:
+# Analysis tool
 The project use Python3 and below package installed to do the analysis.
 1. Numpy
 2. Pandas
