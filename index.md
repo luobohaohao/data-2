@@ -34,9 +34,10 @@ From the data analysis I want to get to know below questions
 
 ## Data Understanding
 ### Calendar
-1. We can see only six fields in this table.For date column: it’s not date type.For price column:it’s not int/float type and it have many missing values.
+1. I can see only six fields in this table.For date column: it’s not date type.For price column:it’s not int/float type and it have many missing values.
 
 ![image](https://user-images.githubusercontent.com/30916036/129543154-952ace67-4034-4c61-b4c7-20b00f340db7.png)
+
 
 2. I can see that data period is from 2016-01-04 to 2017-01-02
 
@@ -47,12 +48,12 @@ From the data analysis I want to get to know below questions
 
 ![image](https://user-images.githubusercontent.com/30916036/129543469-cb139987-c832-486c-a32e-f494141bfa65.png)
 
-2. Below is the null values percentage for each column in this table.More than 50% values are missing in square_feet,monthly_price,security_deposit
+2. Below is the null values percentage for each column in this table.More than 50% values are missing in square_feet,monthly_price,security_deposit columns.
 
 ![image](https://user-images.githubusercontent.com/30916036/129543549-bb6ac72f-0739-456b-a72e-3e6417d5f544.png)
 
 ### Review
-1. I can see only  6 fields in this data.There are some missing values in comments.
+1. I can see only  6 fields in this data.There are some missing values in comments column.
 
 ![image](https://user-images.githubusercontent.com/30916036/129543654-33c1815e-838e-4f17-9199-e0b2192ea9dc.png)
 
