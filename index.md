@@ -27,6 +27,8 @@ From the data analysis I want to get to know below questions
 1.2 We can see only four fields in this table.
 1.3 For date field: it’s not date type.We need transfer them to date type if we need calculate
 1.4 For price field:it’s not int/float type.We need to transfer them if we need to calculate.There are some missing values in this field.
+![image](https://user-images.githubusercontent.com/30916036/129541902-3463e7be-dbca-4fb7-b617-456a795a8650.png)
+
 
 
 2. Listing
