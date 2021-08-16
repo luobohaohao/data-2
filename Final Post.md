@@ -59,6 +59,12 @@ From the data analysis I want to get to know below questions
 ![image](https://user-images.githubusercontent.com/30916036/129543654-33c1815e-838e-4f17-9199-e0b2192ea9dc.png)
 
 ## Data preparation
+I made below important data preparation:
+1.As data period is from 2016-01-04 to 2017-01-02 in calendar table,I only choose data year=2016 as my analysis data.
+2.As the price in listings contained '$',I remove the symble and convert the data type to int.
+3.As there are some missing values in listing table,when I set model to predict price I abandon the columns which have much missing values.
+
+After these data preparation,I got my answers for my each questions:
 1. When is the peak season for travelling to Seattle
 - Jun is the peak season in Seattle: I can see the occupation rate is the lowest and price is the highest in Jun among the year.
 - October to December is the slack season in Seattle: The occupation rate is high and price is low.
