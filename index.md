@@ -46,8 +46,16 @@ From the data analysis I want to get to know below questions
 ![image](https://user-images.githubusercontent.com/30916036/129543654-33c1815e-838e-4f17-9199-e0b2192ea9dc.png)
 
 ## Data preparation
-1. When is the best month for travelling to Seattle
+1. When is the peak season for travelling to Seattle
+-Jun is the peak season in Seattle: I can see the occupation rate is the slowest and price is the highest in Jun among the year.
+-October to December is the slack season in Seattle: The occupation rate is high and price is low.
+
+![image](https://user-images.githubusercontent.com/30916036/129544914-5a0dbdcd-4dd7-4d25-a077-3d3047997d55.png)
+![image](https://user-images.githubusercontent.com/30916036/129544958-caced60d-7631-4cb8-b2aa-077bbd63de95.png)
+
 2. Where is the best place to live in Seattle
+
+4. 
 
 
 ## Modeling
