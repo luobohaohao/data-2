@@ -83,5 +83,6 @@ Note:As the price in listings contained '$',I remove the symble and convert the 
 ## Modeling and Evaluation
 From above corr analysis with price,I choose the variables whose absolute correlation coefficient >0.2 as the independent variables to predict price.However the missing value percentage of square_feet is over 50%,I decide to abondon this variable althougn it have high relationship with price.Here is the evalation of the model.I'm satisfied with the result.
 
-![image](https://user-images.githubusercontent.com/30916036/129549360-118ac5d5-ebdb-42df-a884-8fe1e95b122c.png)
+![image](https://user-images.githubusercontent.com/30916036/129565294-62869f8a-9235-4d93-8380-c7f355e8d97d.png)
+
 
