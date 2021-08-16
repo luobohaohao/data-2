@@ -21,7 +21,7 @@ The project use Python3 and below package installed to do the analysis.
 # Results
 From data analysis,I have below questions and answers
 1. When is the best month for travelling to Seattle
-- Jun is the peak season and October to December is the slack seasons in a year.
+- Jun is the peak season and October to December are the slack seasons in a year.
 
 2. Where is the best place to rent in Seattle
 - Fairmount Park is the highest and Roxhill is the cheapest place to rent in Seattle.
@@ -30,8 +30,8 @@ From data analysis,I have below questions and answers
 - accommodates,bedrooms,beds,square_feet,bathrooms have strong relationships with price.
 
 4. How can I predict price by variables and the evaluation of the data model.
-- I use the variables whose correlation coefficient >0.3 and have low missing values percentage as the independent variables to predict price 
-- Here is the evaluation of the model:Mean squared error is 4200 and R2=0.48
+- I use the variables whose correlation coefficient >0.3 and have low missing values percentage as the independent variables to predict price. 
+- Here is the evaluation of the model:Mean squared error is 4200 and R2=0.48.
 
 
 Pls get to know the full analysis from my post:https://luobohaohao.github.io/data-2/
