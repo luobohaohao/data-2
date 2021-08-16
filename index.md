@@ -47,16 +47,21 @@ From the data analysis I want to get to know below questions
 
 ## Data preparation
 1. When is the peak season for travelling to Seattle
--Jun is the peak season in Seattle: I can see the occupation rate is the slowest and price is the highest in Jun among the year.
--October to December is the slack season in Seattle: The occupation rate is high and price is low.
+- Jun is the peak season in Seattle: I can see the occupation rate is the slowest and price is the highest in Jun among the year.
+- October to December is the slack season in Seattle: The occupation rate is high and price is low.
 
 ![image](https://user-images.githubusercontent.com/30916036/129544914-5a0dbdcd-4dd7-4d25-a077-3d3047997d55.png)
 ![image](https://user-images.githubusercontent.com/30916036/129544958-caced60d-7631-4cb8-b2aa-077bbd63de95.png)
 
 2. Where is the best place to live in Seattle
+I can see the big diffence between neighbourhood.
+![image](https://user-images.githubusercontent.com/30916036/129546727-215b1f65-d48a-4604-a552-79ca79524111.png)
 
-4. 
+3. What impact on price
+From corr analysis,I found accommodates,bedrooms,beds,square_feet,bathrooms,guests_included,longitude,number_of_reviews,reviews_per_month have higher relationship with price.
+![image](https://user-images.githubusercontent.com/30916036/129547495-c5f9103b-c4aa-4adb-a9b1-47b92c31ac23.png)
 
+## Modeling and Evaluation
+From below corr analysis with price,I choose the factors which have >0.3 corr number as the independent variables to predict price.
+![image](https://user-images.githubusercontent.com/30916036/129549360-118ac5d5-ebdb-42df-a884-8fe1e95b122c.png)
 
-## Modeling
-## Evaluation
