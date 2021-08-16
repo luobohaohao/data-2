@@ -20,7 +20,7 @@ From data analysis,I have below questions and answers
 3. What factors correlated with the price
 - accommodates,bedrooms,beds,square_feet,bathrooms have strong relationships with price.
 
-4.How can I predict price by variables and the evaluation of the data model.
+4. How can I predict price by variables and the evaluation of the data model.
 My final model evaluation 
 - Mean squared error is 4200.
 - R2=0.48
