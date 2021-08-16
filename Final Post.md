@@ -12,7 +12,7 @@ My datasource comes from https://www.kaggle.com/airbnb/seattle/data .it include 
 # Results
 From data analysis,I have below questions and answers
 1. When is the best month for travelling to Seattle
-- Jun is the peak season and October to December is the slack season in a year.
+- Jun is the peak season and October to December is the slack seasons in a year.
 
 2. Where is the best place to rent in Seattle
 - Fairmount Park is the highest and Roxhill is the cheapest place to rent in Seattle.
