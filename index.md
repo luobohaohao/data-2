@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/30916036/129551845-5bdab939-e32e-4940-9bd2-613bae7bbbf4.png)
+
 # Introduction
 Seattle is a famous place for travelling.I want to have some findings from airbnb seattle data so that I have make good choice to travel there.
 
