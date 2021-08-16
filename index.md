@@ -34,7 +34,7 @@ From the data analysis I want to get to know below questions
 
 ## Data Understanding
 ### Calendar
-1. We can see only six fields in this table.For date field: it’s not date type.For price field:it’s not int/float type.We need to transfer them if we need to calculate.There are some missing values in this field.
+1. We can see only six fields in this table.For date column: it’s not date type.For price column:it’s not int/float type and it have many missing values.
 
 ![image](https://user-images.githubusercontent.com/30916036/129543154-952ace67-4034-4c61-b4c7-20b00f340db7.png)
 
@@ -47,7 +47,7 @@ From the data analysis I want to get to know below questions
 
 ![image](https://user-images.githubusercontent.com/30916036/129543469-cb139987-c832-486c-a32e-f494141bfa65.png)
 
-2. Below is the null values percentage for each field in this table.More than 50% values are missing in square_feet,monthly_price,security_deposit
+2. Below is the null values percentage for each column in this table.More than 50% values are missing in square_feet,monthly_price,security_deposit
 
 ![image](https://user-images.githubusercontent.com/30916036/129543549-bb6ac72f-0739-456b-a72e-3e6417d5f544.png)
 
@@ -58,21 +58,23 @@ From the data analysis I want to get to know below questions
 
 ## Data preparation
 1. When is the peak season for travelling to Seattle
-- Jun is the peak season in Seattle: I can see the occupation rate is the slowest and price is the highest in Jun among the year.
+- Jun is the peak season in Seattle: I can see the occupation rate is the lowest and price is the highest in Jun among the year.
 - October to December is the slack season in Seattle: The occupation rate is high and price is low.
 
 ![image](https://user-images.githubusercontent.com/30916036/129544914-5a0dbdcd-4dd7-4d25-a077-3d3047997d55.png)
 ![image](https://user-images.githubusercontent.com/30916036/129544958-caced60d-7631-4cb8-b2aa-077bbd63de95.png)
 
+
 2. Where is the best place to live in Seattle
-- I can see the big difference between neighbourhood.
+- I can see the big difference between neighbourhood.Fairmount Park is the highest and Roxhill is the cheapest place to rent in Seattle.
 ![image](https://user-images.githubusercontent.com/30916036/129546727-215b1f65-d48a-4604-a552-79ca79524111.png)
 
+
 3. What impact on price
-From corr analysis,I found accommodates,bedrooms,beds,square_feet,bathrooms,guests_included,longitude,number_of_reviews,reviews_per_month have higher relationship with price.
+- From corr analysis,I found accommodates,bedrooms,beds,square_feet,bathrooms,guests_included,longitude,number_of_reviews,reviews_per_month have strong relationship with price.
 ![image](https://user-images.githubusercontent.com/30916036/129547495-c5f9103b-c4aa-4adb-a9b1-47b92c31ac23.png)
 
 ## Modeling and Evaluation
-From above corr analysis with price,I choose the variables whose correlation coefficient >0.3 as the independent variables to predict price.
+From above corr analysis with price,I choose the variables whose correlation coefficient >0.3 as the independent variables to predict price.Here is the evalation of the model
 ![image](https://user-images.githubusercontent.com/30916036/129549360-118ac5d5-ebdb-42df-a884-8fe1e95b122c.png)
 
