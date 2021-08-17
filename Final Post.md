@@ -47,7 +47,8 @@ From the data analysis I want to get to know below questions
 ### Listing
 1. There are 92 fields in this table.
 
-![image](https://user-images.githubusercontent.com/30916036/129543469-cb139987-c832-486c-a32e-f494141bfa65.png)
+![image](https://user-images.githubusercontent.com/30916036/129659915-3d8a1d9a-1aa7-4d2a-9285-0db6ba41c334.png)
+
 
 2. Below is the column list whose null values percentage over 20%.I can see some columns like licence ect have high percentage of null values.
 
