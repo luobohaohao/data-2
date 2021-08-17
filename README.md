@@ -37,4 +37,4 @@ From data analysis,I have below questions and answers
 - Here is the evaluation of the model:Mean squared error is 4200 and R2=0.48.
 
 
-Pls get to know the full analysis from my post:https://luobohaohao.github.io/data-2/
+Pls get to know the full analysis from my post:https://github.com/luobohaohao/data-2/blob/gh-pages/Final%20Post.md
