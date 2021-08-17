@@ -63,7 +63,7 @@ From the data analysis I want to get to know below questions
 1. When is the peak season for travelling to Seattle
 
 Note:As data period is from 2016-01-04 to 2017-01-02 in calendar table,there's no meaning to use 2017 data in this table.I only choose data year=2016 as my analysis data.
-- Summer is the peak season in Seattle: I can see the occupation rate is the lowest and price is the highest in Jun among the year.
+- Summer is the peak season in Seattle: I can see the occupation rate is the lowest and price is the highest in Jun to Aug among the year.
 - Autumn to spring the slack season in Seattle: The occupation rate is high and price is low.
 
 ![image](https://user-images.githubusercontent.com/30916036/129659025-c8f60a37-19ff-44c9-bcfd-1f78934aa992.png)
