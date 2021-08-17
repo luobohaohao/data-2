@@ -21,7 +21,7 @@ From data analysis,I have below questions and answers
 - accommodates,bedrooms,beds,square_feet,bathrooms have strong relationships with price.
 
 4. How can I predict price by variables and the evaluation of the data model.
-- I use the variables whose correlation coefficient >0.3 and have low missing values percentage as the independent variables to predict price. 
+- I use the variables whose correlation coefficient >0.2 and have low missing values percentage as the independent variables to predict price. 
 - Here is the evaluation of the model:Mean squared error is 4200 and R2=0.48.
 
 
@@ -49,9 +49,10 @@ From the data analysis I want to get to know below questions
 
 ![image](https://user-images.githubusercontent.com/30916036/129543469-cb139987-c832-486c-a32e-f494141bfa65.png)
 
-2. Below is the null values percentage for each column in this table.More than 50% values are missing in square_feet,monthly_price,security_deposit columns.
+2. Below is the column list whose null values percentage over 20%.I can see the some columns like licence ect have high percentage of null values.
 
-![image](https://user-images.githubusercontent.com/30916036/129543549-bb6ac72f-0739-456b-a72e-3e6417d5f544.png)
+![image](https://user-images.githubusercontent.com/30916036/129653862-85f70fc6-d48a-482f-9764-d0f9318f0612.png)
+
 
 ### Review
 1. I can see only  6 fields in this data.There are some missing values in comments column.
