@@ -72,7 +72,6 @@ Note:As data period is from 2016-01-04 to 2017-01-02 in calendar table,there's n
 
 2. Where is the best place to live in Seattle
 
-Note:As the price in listings contained '$',I remove the symble and convert the data type to int.
 - I can see the big difference between neighbourhood.Fairmount Park is the highest and Roxhill is the cheapest place to rent in Seattle.
 ![image](https://user-images.githubusercontent.com/30916036/129546727-215b1f65-d48a-4604-a552-79ca79524111.png)
 
