@@ -12,7 +12,7 @@ My datasource comes from https://www.kaggle.com/airbnb/seattle/data .it include 
 # Results
 From data analysis,I have below questions and answers
 1. When is the best month for travelling to Seattle
-- Jun is the peak season and October to December are the slack seasons in a year.
+- Jul is the peak season and October to December are the slack seasons in a year.
 
 2. Where is the best place to rent in Seattle
 - Fairmount Park is the highest and Roxhill is the cheapest place to rent in Seattle.
@@ -49,7 +49,7 @@ From the data analysis I want to get to know below questions
 
 ![image](https://user-images.githubusercontent.com/30916036/129543469-cb139987-c832-486c-a32e-f494141bfa65.png)
 
-2. Below is the column list whose null values percentage over 20%.I can see the some columns like licence ect have high percentage of null values.
+2. Below is the column list whose null values percentage over 20%.I can see some columns like licence ect have high percentage of null values.
 
 ![image](https://user-images.githubusercontent.com/30916036/129653862-85f70fc6-d48a-482f-9764-d0f9318f0612.png)
 
@@ -63,7 +63,7 @@ From the data analysis I want to get to know below questions
 1. When is the peak season for travelling to Seattle
 
 Note:As data period is from 2016-01-04 to 2017-01-02 in calendar table,there's no meaning to use 2017 data in this table.I only choose data year=2016 as my analysis data.
-- Jun is the peak season in Seattle: I can see the occupation rate is the lowest and price is the highest in Jun among the year.
+- Jul is the peak season in Seattle: I can see the occupation rate is the lowest and price is the highest in Jun among the year.
 - October to December is the slack season in Seattle: The occupation rate is high and price is low.
 
 ![image](https://user-images.githubusercontent.com/30916036/129544914-5a0dbdcd-4dd7-4d25-a077-3d3047997d55.png)
