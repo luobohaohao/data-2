@@ -23,6 +23,8 @@ From data analysis,I have below questions and answers
 4. How can I predict price by variables and the evaluation of the data model.
 - I use the variables whose correlation coefficient >0.2 and have low missing values percentage as the independent variables to predict price. 
 - Here is the evaluation of the model:Mean squared error is 4200 and R2=0.48.
+![image](https://user-images.githubusercontent.com/30916036/129658252-a76e13f1-0625-4ea9-83e0-8664ca77dab6.png)
+
 
 
 # Data analysis process
