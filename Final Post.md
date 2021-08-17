@@ -51,7 +51,7 @@ From the data analysis I want to get to know below questions
 
 2. Below is the column list whose null values percentage over 20%.I can see some columns like licence ect have high percentage of null values.
 
-![image](https://user-images.githubusercontent.com/30916036/129653862-85f70fc6-d48a-482f-9764-d0f9318f0612.png)
+![image](https://user-images.githubusercontent.com/30916036/129659194-3e77c9ba-7c46-4b12-8d04-5a55c682e4ac.png)
 
 
 ### Review
