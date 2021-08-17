@@ -80,7 +80,7 @@ Note:As data period is from 2016-01-04 to 2017-01-02 in calendar table,there's n
 - From corr analysis,I found accommodates,bedrooms,beds,square_feet,bathrooms,guests_included,reviews_per_month have strong or middle relationship with price.
 Below is the column list whose correlation coefficient over 0.2.
 
-![image](https://user-images.githubusercontent.com/30916036/129654598-3dcaee72-0e94-4f1b-8514-6693ab2c4696.png)
+![image](https://user-images.githubusercontent.com/30916036/129654853-de8fb647-b957-4e87-abac-b5b0bb8db365.png)
 
 
 ## Modeling and Evaluation
