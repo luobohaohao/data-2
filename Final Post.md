@@ -12,7 +12,7 @@ My datasource comes from https://www.kaggle.com/airbnb/seattle/data .it include 
 # Results
 From data analysis,I have below questions and answers
 1. When is the best month for travelling to Seattle
-- Jul is the peak season and October to December are the slack seasons in a year.
+- Summer is the peak season and autumn to spring are the slack seasons in a year.
 
 2. Where is the best place to rent in Seattle
 - Fairmount Park is the highest and Roxhill is the cheapest place to rent in Seattle.
@@ -63,17 +63,20 @@ From the data analysis I want to get to know below questions
 1. When is the peak season for travelling to Seattle
 
 Note:As data period is from 2016-01-04 to 2017-01-02 in calendar table,there's no meaning to use 2017 data in this table.I only choose data year=2016 as my analysis data.
-- Jul is the peak season in Seattle: I can see the occupation rate is the lowest and price is the highest in Jun among the year.
-- October to December is the slack season in Seattle: The occupation rate is high and price is low.
+- Summer is the peak season in Seattle: I can see the occupation rate is the lowest and price is the highest in Jun among the year.
+- Autumn to spring the slack season in Seattle: The occupation rate is high and price is low.
 
-![image](https://user-images.githubusercontent.com/30916036/129544914-5a0dbdcd-4dd7-4d25-a077-3d3047997d55.png)
-![image](https://user-images.githubusercontent.com/30916036/129544958-caced60d-7631-4cb8-b2aa-077bbd63de95.png)
+![image](https://user-images.githubusercontent.com/30916036/129659025-c8f60a37-19ff-44c9-bcfd-1f78934aa992.png)
+![image](https://user-images.githubusercontent.com/30916036/129659039-47242708-63b1-472a-beca-e2a7d7d44ce4.png)
 
 
 2. Where is the best place to live in Seattle
 
 - I can see the big difference between neighbourhood.Fairmount Park is the highest and Roxhill is the cheapest place to rent in Seattle.
-![image](https://user-images.githubusercontent.com/30916036/129546727-215b1f65-d48a-4604-a552-79ca79524111.png)
+
+![image](https://user-images.githubusercontent.com/30916036/129659077-88c410e0-fce3-47cd-84f7-b6154a7798bb.png)
+![image](https://user-images.githubusercontent.com/30916036/129659090-100ceb19-fb07-4afc-8cbe-459265618066.png)
+
 
 
 3. What impact on price
